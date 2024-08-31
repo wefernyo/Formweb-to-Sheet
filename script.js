@@ -1,4 +1,4 @@
-const LIFF_ID = '1655873446-MpmBPPzl';
+const LIFF_ID = '2006186320-Jz0zQjQy';
 $(document).ready(() => {
     liff.init({ liffId: LIFF_ID }, () => {
         if (liff.isLoggedIn()) {
